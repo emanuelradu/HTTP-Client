@@ -1,8 +1,3 @@
-﻿README Tema 3 Protocoale de comunicație - Client HTTP. Comunicație cu 
-REST API.
-
-Radu Emanuel Ioan 325CD
-
 Am implementat doar primele patru cerințe ale temei. Pentru implementare, 
 am folosit scheletul realizat la laboratorul de HTTP.
 Pentru parsarea datelor, am folosit Jsmn(link:https://github.com/zserge/jsmn).
