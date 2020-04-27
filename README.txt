@@ -1,5 +1,3 @@
-Am implementat doar primele patru cerințe ale temei. Pentru implementare, 
-am folosit scheletul realizat la laboratorul de HTTP.
 Pentru parsarea datelor, am folosit Jsmn(link:https://github.com/zserge/jsmn).
 Jsmn parseaza datele și le reține în tokeni. Un token se obține din delimitarea prin "". Obțin tokenii după indexul lor.
 La fiecare task parsez răspunsul primit la taskul precedent și obțin câmpurile de care am nevoie programatic. 
